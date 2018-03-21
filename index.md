@@ -5,7 +5,7 @@
 layout: page
 ---
 
-I am an Assistant Professor in the <a href="http://www.centralesupelec.fr/en/" target="_blank">CentraleSupélec</a> Graduate School at <a href="http://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, Paris-Saclay campus, France.
+I am an Assistant Professor in the <a href="http://www.centralesupelec.fr/en/" target="_blank">CentraleSupélec</a> Graduate School of engineering at <a href="http://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, Paris-Saclay campus, France.
 
 I am Deputy Head of the Master of Engineering program <a href="http://www.acd-ecp.com" target="_blank">Aménagement et Construction Durables</a> at CentraleSupélec.
 

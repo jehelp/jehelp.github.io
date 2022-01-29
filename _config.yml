@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre Jehel, PhD"
+  name             : "Pierre Jehel"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
-  location         : "Greater Paris area"
+  bio              : "Associate Professor at Université Paris-Saclay / CentraleSupélec"
+  location         : "Greater Paris Area"
   employer         : "Université Paris-Saclay / CentraleSupélec"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "pierre.jehel[at]centralesupelec.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "pierre.jehel@centralesupelec.fr"
+  researchgate     : "https://www.researchgate.net/profile/Pierre-Jehel" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jehelp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pierrejehel/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "pierrejehel"
+  orcid            : "http://orcid.org/0000-0002-6164-5043"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

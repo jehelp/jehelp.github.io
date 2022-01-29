@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor at Université Paris-Saclay / CentraleSupélec"
   location         : "Greater Paris Area"
-  employer         : "Université Paris-Saclay / CentraleSupélec"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : # "Université Paris-Saclay / CentraleSupélec"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=RJ2D3VUAAAAJ&hl=en"
   email            : "pierre.jehel@centralesupelec.fr"
   researchgate     : "https://www.researchgate.net/profile/Pierre-Jehel" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "pierrejehel"
+  linkedin         : "pierrejehel/en"
   orcid            : "http://orcid.org/0000-0002-6164-5043"
   pinterest        :
   soundcloud       :

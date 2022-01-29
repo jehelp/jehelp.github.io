@@ -89,7 +89,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=RJ2D3VUAAAAJ&hl=en"
   email            : "pierre.jehel@centralesupelec.fr"
   researchgate     : "https://www.researchgate.net/profile/Pierre-Jehel" # example: "https://www.researchgate.net/profile/yourprofile"
-#  hal              : "https://cv.archives-ouvertes.fr/pierre-jehel/en"
   uri              :
   bitbucket        :
   codepen          :
@@ -117,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
+#  hal              : "https://cv.archives-ouvertes.fr/pierre-jehel/en"
 
 # Reading Files
 include:

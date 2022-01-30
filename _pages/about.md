@@ -19,4 +19,4 @@ At CentraleSupélec, I serve as:
 - co-head of the [graduate program in Civil and Urban Engineering](https://mention-sic.blogspot.fr/p/presentation.html)
 - co-head of the [*CityFaberLab* students projects hub](https://cityfaberlab.blogspot.com/).
 
-In the *Laboratoire de Mécanique Paris-Saclay* I am active in two research projects for adapting transportation infrastructures to climate change and aging (see [research](https://jehelp.github.io/research/)).
+In the *Laboratoire de Mécanique Paris-Saclay* I am currently active in three research projects for adapting transportation infrastructures to climate change, aging, and dense urban areas (see [research](https://jehelp.github.io/research/)).

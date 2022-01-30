@@ -11,9 +11,12 @@ redirect_from:
 <!--- For preview: ctrl+shift+m -->
 
 I am an Associate Professor at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) affiliated at:
-- [CentraleSupélec](https://www.centralesupelec.fr/en) where I teach and serve as program manager in the field of Civil and Environmental Engineering
+- [CentraleSupélec](https://www.centralesupelec.fr/en) where I teach and manage programs in the field of Civil and Environmental Engineering
 - [Laboratoire de Mécanique Paris-Saclay](https://) where I develop my research in computational mechanics and stochastic structural reliability.
 
-In the CentraleSupélec curriculum, I serve as:
+At CentraleSupélec, I serve as:
+- teacher in several courses (see [teaching](https://jehelp.github.io/teaching/))
 - co-head of the [graduate program in Civil and Urban Engineering](https://mention-sic.blogspot.fr/p/presentation.html)
 - co-head of the [*CityFaberLab* students projects hub](https://cityfaberlab.blogspot.com/).
+
+In the *Laboratoire de Mécanique Paris-Saclay* I am active in two research projects for adapting transportation infrastructures to climate change and aging (see [research](https://jehelp.github.io/research/)).

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pierre Jehel, PhD"
+title                    : "Pierre Jehel"
 title_separator          : "-"
 name                     : &name "Pierre Jehel"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre Jehel, PhD"
-  avatar           : "profile.png"
+  avatar           : "Pierre_Jehel_2500x2500.jpg"
   bio              : "Associate Professor at Université Paris-Saclay / CentraleSupélec"
   location         : "Greater Paris Area"
   employer         : # "Université Paris-Saclay / CentraleSupélec"

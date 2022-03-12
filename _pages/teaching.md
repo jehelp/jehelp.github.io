@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Page under construction"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-*Note:* The CentraleSupélec course catalogue is available [here](https://www.centralesupelec.fr/sites/default/files/catalogue_2020_en_v1.0.pdf)
+*Note:* The CentraleSupélec course catalogue is available [here](https://www.centralesupelec.fr/sites/default/files/catalogue_2020_en_v1.0.pdf).
 
 ### Current courses taught at undergraduate level
 

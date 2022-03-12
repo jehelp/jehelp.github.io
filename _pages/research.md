@@ -8,7 +8,7 @@ author_profile: true
 <a name="top"></a>
 * [MINERVE project](#minerve-project)
 * [GEOPONT project](#geopont-project)
-* [TBM monitoring](#)
+* [TBM monitoring](#tbm-monitoring)
 
 <a name="minerve-project"></a>
 ### MINERVE project
@@ -28,18 +28,20 @@ The MINERVE project is financially supported by the French government in the fra
 <a name="geopont-project"></a>
 ### GEOPONT project
 
-GEOPONT gathers the expertise of 2 industrial partners (Bouygues Construction and SpotLight Earth) and Université Paris-Saclay | CentraleSupélec to develop a methodology for the fast and affordable health monitoring of reinforced concrete bridges. Established and emerging geophysical methods are considered. As Principal Investigator and with a post-doctoral researcher under my supervision, I am in charge of i) designing simulation-informed active seismic surveys for collecting data on bridges and ii) developing field-experiment-informed numerical simulations of active seismic surveys to detect possible damage in a bridge.
+The GEOPONT project gathers the expertise of 2 industrial partners (Bouygues Travaux Publics and SpotLight Earth) and of CentraleSupélec / Université Paris-Saclay to develop a methodology for the fast and affordable health monitoring of reinforced concrete bridges. Established and emerging geophysical methods are considered. As Principal Investigator and with a post-doctoral researcher under my supervision, I am in charge of i) designing simulation-informed active seismic surveys for collecting data on bridges and ii) developing field-experiment-informed numerical simulations of active seismic surveys to detect possible damage in a bridge.
 
 The GEOPONT project is financially supported by the French government in the framework of the Recovery Plan.
 
-<img src="../images/LogoFrRelance-vert.jpg" alt="" width="100"/>
+<img src="../images/LogoFrRelance-vert.jpg" alt="" width="80"/>
 
 [top](#top)
 
 <a name="tbm-monitoring"></a>
 ### Tunnel Boring Machine monitoring in urban areas
 
-I am co-supervising the research work of a PhD candidate on controlling Tunnel Boring Machines (TBM) to minimize ground settlements in urban areas. A finite element computational model is being developed using the software Abaqus for simulating ground settlement induced by a TBM underground. Data from the TBM and from ground surface monitoring is being collected. A reinforcement learning strategy using Gaussian processes will be explored for providing optimal control of the TBM. The work is supported by the SOCOTEC Monitoring company.
+I am co-supervising the research work of a PhD candidate on controlling Tunnel Boring Machines (TBM) to minimize ground settlements in urban areas. A finite element computational model is being developed using the software Abaqus for simulating ground settlement induced by a TBM underground. Data from the TBM and from ground surface monitoring is being collected. A reinforcement learning strategy using Gaussian processes will be explored for providing optimal control of the TBM.
+
+The work is supported by the SOCOTEC Monitoring company.
 
 [top](#top)
 

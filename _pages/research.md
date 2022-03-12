@@ -5,18 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## MINERVE project
+### MINERVE project
 
 
-## GEOPONT project
+### GEOPONT project
 
 
-## PhD thesis
+### PhD thesis
 
-### Title
+#### Title
 Tunnel Boring Machine monitoring using surface settlement computational modeling and sensor measurement in a Bayesian framework.
 
-### Industrial partner
+#### Industrial partner
 SOCOTEC Monitoring
 
   + GeoPont + BIM EXE

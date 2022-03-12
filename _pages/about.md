@@ -16,7 +16,7 @@ I am an Associate Professor at [Université Paris-Saclay](https://www.universite
 
 At CentraleSupélec, I am teaching several courses (see [teaching](https://jehelp.github.io/teaching/)) and I serve as:
 - co-head of the [graduate program in Civil and Urban Engineering](https://mention-sic.blogspot.fr/p/presentation.html)
-- co-head of the [*CityFaberLab* students projects hub](https://cityfaberlab.blogspot.com/).
+- co-head of the [*CityFaberLab* student projects hub](https://cityfaberlab.blogspot.com/).
 
 With the *Laboratoire de Mécanique Paris-Saclay* I am currently active in three research projects for adapting transportation infrastructures to climate change, aging, and dense urban areas (see [research](https://jehelp.github.io/research/)).
 

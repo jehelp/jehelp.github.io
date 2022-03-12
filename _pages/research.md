@@ -32,7 +32,7 @@ The GEOPONT project gathers the expertise of 2 industrial partners (Bouygues Tra
 
 The GEOPONT project is financially supported by the French government in the framework of the Recovery Plan.
 
-<img src="../images/LogoFrRelance-vert.jpg" alt="" width="80"/>
+<img src="../images/LogoFrRelance-vert.jpg" alt="" width="90"/>
 
 [top](#top)
 

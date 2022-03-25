@@ -14,10 +14,10 @@ author_profile: true
     * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
 * *Développement d’outil d’aide au diagnostic de la capacité résiduelle de structures en maçonnerie dans un contexte multi-aléas*
     * **Mots-clés :** maçonnerie, analyse de survie, multi-aléas, combinaison d’actions, modélisation multi-fidélité
-    * []
+    * [ ]
 * *High performance machine learning and data analytics for next generation railway design*
-    * **Keywords:** big data, machine learning, high performance data analytics, railway infrastructure.
-    * []
+    * **Keywords:** big data, machine learning, high performance data analytics, railway infrastructure
+    * [ ]
 * Other offers to come...
 
 

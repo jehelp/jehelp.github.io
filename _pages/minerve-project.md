@@ -9,10 +9,10 @@ author_profile: true
 
 ### PhD positions in computational Civil and Environmental Engineering
 
- * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
-  * **Title:** Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact.
-  * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
- * ...
+* [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
+    * **Title:** Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact.
+    * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
+* ...
 
 
 ## Project general presentation
@@ -26,7 +26,7 @@ The project MINERVE gathers 4 industrial partners (SNCF, RATP, Colas Rail, and K
 
 ## Workplace description
 
-<img src="../images/logos-minerve.png" alt="" height="80"/>
+<img src="../images/logos-minerve.png" alt="" height="60"/>
 
 The PhD candidates will be appointed in the Laboratoire de Mécanique Paris-Saclay (LMPS) at Université Paris-Saclay. The LMPS (UMR 9026, Université Paris-Saclay / CentraleSupélec / ENS Paris-Saclay / CNRS) is dedicated to research on all aspects of solid mechanics (mechanics of materials and structures, civil engineering, fine experimentation, and efficient numerical modeling). The LMPS has about 220 members, including 110 PhD students and postdocs and 35 engineers, technicians and administrative staff on two sites of Paris-Saclay University: CentraleSupélec and ENS Paris-Saclay, both in Gif-sur-Yvette.
 

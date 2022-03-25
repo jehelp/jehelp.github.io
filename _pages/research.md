@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <a name="top"></a>
+I serve as Principal Investigator in the following research projects:
 * [MINERVE project](#minerve-project)
 * [GEOPONT project](#geopont-project)
 * [TBM monitoring](#tbm-monitoring)
@@ -13,17 +14,16 @@ author_profile: true
 <a name="minerve-project"></a>
 ### MINERVE project
 
-MINERVE is a public-private $40 million-project gathering 4 industrial partners (SNCF, RATP, Colas Rail, Kayrros), 1 institutional partner (IREX) and Université Paris-Saclay / CentraleSupélec as the academic partner.
+The MINERVE project aims at reaching the carbone net-zero objective in the rail infrastructure sector while adapting the rail infrastructure to climate change. Collaboration and digital continuity will be developed all over the life cycle of the French rail infrastructure. The MINERVE project is about designing and developing numerical methods and tools for modeling the French rail infrastructure all over its life cycle. It is leading the ongoing transition towards designing, constructing, operating, maintaining, and decommissioning rail infrastructure assets in a way that is more efficient, more reliable, and with limited negative impact on the environment. MINERVE is improving the global performance of the national rail infrastructure by adapting it to the effects of climate change and by reducing its negative impacts on the planet while increasing its competitiveness.
 
-The project aims at reaching the carbone net-zero objective in the rail infrastructure sector while adapting the rail infrastructure to climate change. Collaboration and digital continuity all over the life-cycle of the French rail infrastructure will be developed. As Principal Investigator for Université Paris-Saclay / CentraleSupélec, I am in charge of coordinating 2 tasks of the project and of carrying out research to i) develop algorithms and predictive numerical models to assess rail assets performance in the uncertain context of climate change, and ii) to develop a common data environment platform.
+A multi-disciplinary team of about 20 researchers, postdocs, and PhD candidates is working on this project at Université Paris-Saclay. As Principal Investigator for Université Paris-Saclay / CentraleSupélec, I am in charge of coordinating 2 tasks of the project and of carrying out research to i) develop algorithms and predictive numerical models to assess rail assets performance in the uncertain context of climate change, and ii) to develop a common data environment platform.
 
-A multi-disciplinary team of 12 researchers and 6 PhD candidates is working on this project at Université Paris-Saclay.
-
-The MINERVE project is financially supported by the French government in the framework of the Recovery Plan and of the Investing for the Future program.
+The project MINERVE is a public-private $40 million-project gathering 4 industrial partners (SNCF, RATP, Colas Rail, and Kayrros), 1 private research institute (IREX), and 1 academic institution (Université Paris-Saclay). It is financially supported by the French government in the framework of the Recovery Plan and of the Investing for the Future program.
 
 <img src="../images/logos_pia_france_relance.png" alt="" width="200"/>
 
 [top](#top)
+
 
 <a name="geopont-project"></a>
 ### GEOPONT project
@@ -35,6 +35,7 @@ The GEOPONT project is financially supported by the French government in the fra
 <img src="../images/LogoFrRelance-vert.jpg" alt="" width="90"/>
 
 [top](#top)
+
 
 <a name="tbm-monitoring"></a>
 ### Tunnel Boring Machine monitoring in urban areas

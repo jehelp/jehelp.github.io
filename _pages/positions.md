@@ -13,12 +13,12 @@ author_profile: true
   * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
   * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
 
-* Other offer to come...
+Other offer to come...
 
 
 ### Post-doctoral positions
 
-* Offers to come...
+Offers to come...
 
 
 

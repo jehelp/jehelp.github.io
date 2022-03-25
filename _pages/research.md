@@ -6,10 +6,13 @@ author_profile: true
 ---
 
 <a name="top"></a>
-I serve as Principal Investigator in the following research projects:
+I am serving as Principal Investigator in the following research projects:
 * [MINERVE project](#minerve-project)
 * [GEOPONT project](#geopont-project)
+
+I am supervising the following PhD research projects:
 * [TBM monitoring](#tbm-monitoring)
+
 
 <a name="minerve-project"></a>
 ### MINERVE project

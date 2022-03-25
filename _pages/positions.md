@@ -21,6 +21,10 @@ Other offer to come...
 Offers to come...
 
 
+## Open position in the GEOPONT Project
+
+1 post-doctoral position open.
+
 
 ## Workplace description
 

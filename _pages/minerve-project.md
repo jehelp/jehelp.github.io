@@ -1,24 +1,22 @@
 ---
-layout: archive
+#layout: archive
 title: "MINERVE Project"
 permalink: /minerve/
 author_profile: true
 ---
 
-### Open postions
+# Open positions
 
-#### PhD position in computational Civil and Environmental Engineering
+## PhD position in computational Civil and Environmental Engineering
 
 **Title:** Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact
-
 **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
-
 [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
 
 
 
 
-### Project general presentation
+## Project general presentation
 
 The project MINERVE is about designing and developing numerical methods and tools for modeling the French rail infrastructure all over its life cycle. MINERVE is leading the ongoing transition towards designing, constructing, operating, maintaining, and decommissioning rail infrastructure assets in a way that is more efficient, more reliable, and with limited negative impact on the environment. MINERVE is improving the global performance of the national rail infrastructure by adapting it to the effects of climate change and by reducing its negative impacts on the planet while increasing its competitiveness.
 
@@ -27,7 +25,7 @@ The project MINERVE gathers 4 industrial partners (SNCF, RATP, Colas Rail, and K
 <img src="../images/logos_pia_france_relance.png" alt="" width="200"/>
 
 
-### Workplace description
+## Workplace description
 
 <img src="../images/logos-minerve.png" alt="" width="200"/>
 

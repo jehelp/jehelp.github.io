@@ -9,9 +9,12 @@ author_profile: true
 
 ### PhD positions in computational Civil and Environmental Engineering
 
-* [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
-    * **Title:** Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact.
+* Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact.
     * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
+    * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
+* High Performance Machine Learning and Data Analytics for next generation railway design.
+    * **Keywords:** Big Data, Machine Learning, High Performance Data Analytics, Railway infrastructure.
+    *
 * ...
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Bio"
+title: "Welcome"
 #excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-## Welcome to my website
-
-Here, you can find information about my research and teaching activities as Associate Professor in Civil and Environmental Engineering.
+On this website, you can find information about my research and teaching activities as Associate Professor in Civil and Environmental Engineering.
 
 
 ## Civil and Environmental Engineering today

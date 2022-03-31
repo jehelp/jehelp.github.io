@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Google indexing
+<meta name="google-site-verification" content="qXWrsPKbN4Ms8NDGUgQpVaQYMN2ihuUYTtJI_WN8Vpc" />
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Pierre Jehel (Dr./He)"

@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<meta name="google-site-verification" content="qXWrsPKbN4Ms8NDGUgQpVaQYMN2ihuUYTtJI_WN8Vpc" />
 
 On this website, you can find information about my research and teaching activities as Associate Professor in Civil and Environmental Engineering.
 

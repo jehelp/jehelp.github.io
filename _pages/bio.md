@@ -9,7 +9,7 @@ author_profile: true
 
 I am an Associate Professor at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) affiliated at:
 * [CentraleSupélec](https://www.centralesupelec.fr/en) where I teach and manage programs in the field of Civil and Environmental Engineering
-* [Laboratoire de Mécanique Paris-Saclay](https://) where I develop my research mostly in computational mechanics and stochastic structural reliability.
+* [Laboratoire de Mécanique Paris-Saclay](https://lmps.ens-paris-saclay.fr/en) where I develop my research mostly in computational mechanics and stochastic structural reliability.
 
 At CentraleSupélec, I am teaching several courses (see [teaching](https://jehelp.github.io/teaching/)) and I serve as:
 * co-head of the [graduate program in Civil and Urban Engineering](https://mention-sic.blogspot.fr/p/presentation.html)

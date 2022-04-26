@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*Note:* The CentraleSupélec course catalogue is available [here](https://www.centralesupelec.fr/sites/default/files/catalogue_2020_en_v1.0.pdf).
+*Note:* The CentraleSupélec course catalogue is available <a href="https://www.centralesupelec.fr/sites/default/files/catalogue_2020_en_v1.0.pdf" target="_blank">here</a>.
 
 ### Current courses taught at undergraduate level
 
 * 1EL5000 *Continuum Mechanics*; hands-on sessions
-* 1SL8000 & 2SL8000, supervision and mentoring of student projects with the [*CityFaberLab*](https://cityfaberlab.blogspot.com/)
+* 1SL8000 & 2SL8000, supervision and mentoring of student projects with the <a href="https://cityfaberlab.blogspot.com/" target="_blank">*CityFaberLab*</a>
 * 1SC4510 *Introduction to Digital Twin*; lectures and hands-on sessions
 * 1SC4590 *Design of a Bridge Structure*; hands-on sessions and mentoring
 

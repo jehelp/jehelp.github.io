@@ -14,7 +14,6 @@ author_profile: true
 *Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact*
   * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
   * <a href="http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf" target="_blank">Download offer here</a>
-  * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
 
 ---
 

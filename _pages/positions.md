@@ -9,16 +9,21 @@ author_profile: true
 
 ### PhD positions in computational Civil and Environmental Engineering
 
+---
+
 *Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact*
   * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
+  * <a href="http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf" target="_blank">Download offer here</a>
   * [Download offer here](http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf)
+
+---
 
 Other offer to come...
 
 
 ### Post-doctoral positions
 
-Offers to come...
+Offer to come...
 
 
 ## Open position in the GEOPONT Project

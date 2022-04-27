@@ -7,9 +7,9 @@ author_profile: true
 
 ## Open positions in the MINERVE Project
 
-### PhD positions in computational Civil and Environmental Engineering
-
 ---
+
+### PhD positions in computational Civil and Environmental Engineering
 
 *Efficient computational approaches for designing new reinforced concrete rail bridges with reduced environmental impact*
   * **Keywords:** life cycle, finite element analysis, uncertainty, hazard, optimization, reinforced concrete, BIM, structural mechanics.
@@ -19,11 +19,13 @@ author_profile: true
 
 Other offer to come...
 
+---
 
 ### Post-doctoral positions
 
 Offer to come...
 
+---
 
 ## Open position in the GEOPONT Project
 

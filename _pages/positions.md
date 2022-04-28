@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-Other offer to come...
+Other offer to come... 
 
 ---
 

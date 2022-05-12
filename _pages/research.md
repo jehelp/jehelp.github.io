@@ -5,21 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-.video-responsive {
-overflow:hidden;
-padding-bottom:56.25%;
-position:relative;
-height:0;
-}
-
-.video-responsive iframe {
-left:0;
-top:0;
-height:100%;
-width:100%;
-position:absolute;
-}
-
 <a name="top"></a>
 I am serving as Principal Investigator in the following research projects:
 * [MINERVE project](#minerve-project)
@@ -32,7 +17,7 @@ I am supervising the following PhD research projects:
 <a name="minerve-project"></a>
 ### MINERVE project
 
-<div class="video-responsive">
+<div>
 <iframe width="140" height="78" src="https://www.youtube.com/embed/uAfYIU_wmVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

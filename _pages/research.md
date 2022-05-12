@@ -18,7 +18,7 @@ I am supervising the following PhD research projects:
 ### MINERVE project
 
 <style>
-@media (max-width: 560px) {
+@media (max-width: 60px) {
   .image-responsive {
 overflow:hidden;
 padding-bottom:0%;

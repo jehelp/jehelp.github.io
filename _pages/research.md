@@ -25,15 +25,16 @@ padding-bottom:56.25%;
 position:relative;
 height:0;
 }
+}
 .video-responsive iframe {
 left:0;
 top:0;
-height:5%;
-width:5%;
+height:25%;
+width:25%;
 position:absolute;
 }
-}
 </style>
+
 <div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uAfYIU_wmVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

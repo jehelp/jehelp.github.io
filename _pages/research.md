@@ -17,6 +17,8 @@ I am supervising the following PhD research projects:
 <a name="minerve-project"></a>
 ### MINERVE project
 
+<a href="https://youtu.be/uAfYIU_wmVY" target="_blank"><img alt="" src="http://jehelp.github.io/images/screenshot_CS-MINERVE-presentation-P-Jehel.png" style="border-style:solid; border-width:0px; height:399px; width:700px"></a>
+
 <style>
 @media (max-width: 280px) {
 .video-responsive {

@@ -18,7 +18,7 @@ I am supervising the following PhD research projects:
 ### MINERVE project
 
 <style>
-@media (max-width: 50px) {
+@media (max-width: 560px) {
 .video-responsive {
 overflow:hidden;
 padding-bottom:56.25%;
@@ -28,8 +28,8 @@ height:0;
 .video-responsive iframe {
 left:0;
 top:0;
-height:50%;
-width:50%;
+height:5%;
+width:5%;
 position:absolute;
 }
 }

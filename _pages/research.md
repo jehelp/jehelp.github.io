@@ -20,7 +20,7 @@ I am supervising the following PhD research projects:
 
 
 <style>
-@media (max-width: 560px) {
+@media (max-width: 250px) {
 .video-responsive {
 overflow:hidden;
 padding-bottom:56.25%;

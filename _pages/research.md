@@ -21,7 +21,7 @@ I am supervising the following PhD research projects:
 @media (max-width: 560px) {
   .image-responsive {
 overflow:hidden;
-padding-bottom:56.25%;
+padding-bottom:0%;
 position:relative;
 height:0;
 }

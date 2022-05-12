@@ -18,14 +18,13 @@ I am supervising the following PhD research projects:
 ### MINERVE project
 
 <style>
-@media (max-width: 60px) {
-  .image-responsive {
+@media (max-width: 560px) {
+.image-responsive {
 overflow:hidden;
 padding-bottom:0%;
 position:relative;
 height:0;
 }
-
 .image-responsive img {
 left:0;
 top:0;
@@ -36,7 +35,7 @@ position:absolute;
 }
 </style>
 
-<a href="https://youtu.be/uAfYIU_wmVY" target="_blank"><img class='image-responsive' alt="" src="http://jehelp.github.io/images/screenshot_CS-MINERVE-presentation-P-Jehel.png" style="border-style:solid; border-width:0px; height:208px; width:370px"></a>
+<a href="https://youtu.be/uAfYIU_wmVY" target="_blank"><img class='image-responsive' alt="" src="http://jehelp.github.io/images/screenshot_CS-MINERVE-presentation-P-Jehel.png" style="border-style:solid; border-width:0px; height:189px; width:336px"></a>
 
 The MINERVE project aims at reaching the carbone net-zero objective in the rail infrastructure sector while adapting the rail infrastructure to climate change. Collaboration and digital continuity will be developed all over the life cycle of the French rail infrastructure. The MINERVE project is about designing and developing numerical methods and tools for modeling the French rail infrastructure all over its life cycle. It is leading the ongoing transition towards designing, constructing, operating, maintaining, and decommissioning rail infrastructure assets in a way that is more efficient, more reliable, and with limited negative impact on the environment. MINERVE is improving the global performance of the national rail infrastructure by adapting it to the effects of climate change and by reducing its negative impacts on the planet while increasing its competitiveness.
 

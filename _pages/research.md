@@ -5,6 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
+.video-responsive {
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+
+.video-responsive iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
 <a name="top"></a>
 I am serving as Principal Investigator in the following research projects:
 * [MINERVE project](#minerve-project)
@@ -17,7 +32,9 @@ I am supervising the following PhD research projects:
 <a name="minerve-project"></a>
 ### MINERVE project
 
-<iframe width="140" height="78" src="https://www.youtube.com/embed/uAfYIU_wmVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<div class="video-responsive">
+<iframe width="140" height="78" src="https://www.youtube.com/embed/uAfYIU_wmVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The MINERVE project aims at reaching the carbone net-zero objective in the rail infrastructure sector while adapting the rail infrastructure to climate change. Collaboration and digital continuity will be developed all over the life cycle of the French rail infrastructure. The MINERVE project is about designing and developing numerical methods and tools for modeling the French rail infrastructure all over its life cycle. It is leading the ongoing transition towards designing, constructing, operating, maintaining, and decommissioning rail infrastructure assets in a way that is more efficient, more reliable, and with limited negative impact on the environment. MINERVE is improving the global performance of the national rail infrastructure by adapting it to the effects of climate change and by reducing its negative impacts on the planet while increasing its competitiveness.
 

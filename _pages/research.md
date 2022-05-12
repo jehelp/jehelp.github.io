@@ -18,20 +18,20 @@ I am supervising the following PhD research projects:
 ### MINERVE project
 
 <style>
-@media (max-width: 560px) {
+@media (max-width: 280px) {
 .video-responsive {
 overflow:hidden;
 padding-bottom:56.25%;
 position:relative;
 height:0;
 }
-}
 .video-responsive iframe {
 left:0;
 top:0;
-height:25%;
-width:25%;
+height:50%;
+width:50%;
 position:absolute;
+}
 }
 </style>
 

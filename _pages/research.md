@@ -10,7 +10,7 @@ I am serving as Principal Investigator in the following research projects:
 * [MINERVE project](#minerve-project)
 * [GEOPONT project](#geopont-project)
 
-I am supervising the following PhD research projects:
+I am supervising the following PhD research topics:
 * [TBM monitoring](#tbm-monitoring)
 
 

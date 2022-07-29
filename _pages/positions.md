@@ -21,22 +21,24 @@ author_profile: true
 *Cognitive twins for railway infrastructure asset performance simulation through knowledge-driven artificial intelligence*
   * **Keywords:** artificial intelligence, knowledge representation and reasoning, semantics, cognitive digital twin, railway infrastructure lifecycle, data flow, knowledge graph, ontologies
   * <a href="http://jehelp.github.io/files/PhD_Cognitive-twins-for-railway-infrastructure-asset-performance-simulation-through-knowledge-driven-artificial-intelligence.pdf" target="_blank">Download offer here</a>
-  
----
 
+---
 
 ### Post-doctoral positions
 
 Offer to come...
 
----
 
 ## Open position in the GEOPONT Project
+
+---
 
 1 post-doctoral position open.
 
 
 ## Workplace description
+
+---
 
 <img src="../images/logos-minerve.png" alt="" width="800"/>
 

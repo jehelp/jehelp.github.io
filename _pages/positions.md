@@ -16,11 +16,14 @@ author_profile: true
   * <a href="http://jehelp.github.io/files/RC-bridge_eco-design_PhD.pdf" target="_blank">Download offer here</a>
 -->
 
+### PhD position in knowledge- and data-driven Artificial Intelligence for computational Civil and Environmental Engineering
+
+*Cognitive twins for railway infrastructure asset performance simulation through knowledge-driven artificial intelligence*
+  * **Keywords:** artificial intelligence, knowledge representation and reasoning, semantics, cognitive digital twin, railway infrastructure lifecycle, data flow, knowledge graph, ontologies
+  * <a href="http://jehelp.github.io/files/PhD_Cognitive-twins-for-railway-infrastructure-asset-performance-simulation-through-knowledge-driven-artificial-intelligence.pdf" target="_blank">Download offer here</a>
+  
 ---
 
-Offer to come...
-
----
 
 ### Post-doctoral positions
 

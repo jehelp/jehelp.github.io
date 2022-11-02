@@ -41,9 +41,9 @@ The MINERVE project aims at reaching the carbone net-zero objective in the rail 
 
 A multi-disciplinary team of about 20 researchers, postdocs, and PhD candidates is working on this project at Université Paris-Saclay. As Principal Investigator for Université Paris-Saclay / CentraleSupélec, I am in charge of coordinating 2 tasks of the project and of carrying out research to i) develop algorithms and predictive numerical models to assess rail assets performance in the uncertain context of climate change, and ii) to develop a common data environment platform.
 
-The project MINERVE is a public-private $40 million-project gathering 4 industrial partners (SNCF, RATP, Colas Rail, and Kayrros), 1 private research institute (IREX), and 1 academic institution (Université Paris-Saclay). It is financially supported by the French government in the framework of the Recovery Plan and of the Investing for the Future program.
+The project MINERVE is a public-private $40 million-project gathering 4 industrial partners (SNCF, RATP, Colas Rail, and Kayrros), 1 private research institute (IREX), and 1 academic institution (Université Paris-Saclay). It is financially supported by the French government in the framework of France 2030 investment plan.
 
-<img src="../images/logo-france-2030.jpg" alt="" width="200"/>
+<img src="../images/logo-france-2030.jpg" alt="" width="90"/>
 
 [top](#top)
 

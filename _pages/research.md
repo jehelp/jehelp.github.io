@@ -53,7 +53,7 @@ The project MINERVE is a public-private $35 million-project gathering 4 industri
 
 The GEOPONT project gathers the expertise of 2 industrial partners (Bouygues Travaux Publics and SpotLight Earth) and of CentraleSupélec / Université Paris-Saclay to develop a methodology for the fast and affordable health monitoring of reinforced concrete bridges. Established and emerging geophysical methods are considered. As Principal Investigator and with a post-doctoral researcher under my supervision, I am in charge of i) designing simulation-informed active seismic surveys for collecting data on bridges and ii) developing field-experiment-informed numerical simulations of active seismic surveys to detect possible damage in a bridge.
 
-The GEOPONT project is financially supported by the French government in the framework of the Recovery Plan.
+The GEOPONT project is supported by the French government in the framework of the France 2030 investment plan.
 
 <img src="../images/logo-france-2030.jpg" alt="" width="90"/>
 

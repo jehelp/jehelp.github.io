@@ -25,7 +25,9 @@ author_profile: true
 
 ### Post-doctoral positions
 
-Offer to come...
+*Post-doctoral position in computational mechanics for bridge structural health monitoring*
+  * **Keywords:** Structural Health Monitoring, Finite Element Method, wave propagation, structural vibration / acoustics, reinforced concrete, signal processing, digital twin
+  * <a href="http://jehelp.github.io/files/geopont-postdoc-offer.pdf" target="_blank">Download offer here</a>
 
 
 ## Open position in the GEOPONT Project

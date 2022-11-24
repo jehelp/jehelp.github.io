@@ -5,7 +5,7 @@ permalink: /positions/
 author_profile: true
 ---
 
-## Open positions in the MINERVE Project
+## MINERVE Project
 
 ---
 <!--
@@ -25,16 +25,18 @@ author_profile: true
 
 ### Post-doctoral positions
 
-*Post-doctoral position in computational mechanics for bridge structural health monitoring*
-  * **Keywords:** Structural Health Monitoring, Finite Element Method, wave propagation, structural vibration / acoustics, reinforced concrete, signal processing, digital twin
-  * <a href="http://jehelp.github.io/files/geopont-postdoc-offer.pdf" target="_blank">Download offer here</a>
+Offers to come...
 
 
-## Open position in the GEOPONT Project
+## GEOPONT Project
 
 ---
 
-1 post-doctoral position open.
+### Post-doctoral position in computational mechanics for bridge structural health monitoring
+
+  * **Keywords:** Structural Health Monitoring, Finite Element Method, wave propagation, structural vibration / acoustics, reinforced concrete, signal processing, digital twin
+  * <a href="http://jehelp.github.io/files/geopont-postdoc-offer.pdf" target="_blank">Download offer here</a>
+
 
 
 ## Workplace description

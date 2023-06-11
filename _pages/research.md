@@ -43,7 +43,7 @@ A multi-disciplinary team of about 20 researchers, postdocs, and PhD candidates 
 
 The project MINERVE is a public-private $35 million-project gathering 4 industrial partners (SNCF, RATP, Colas Rail, and Kayrros), 1 private research institute (IREX), and 1 academic institution (Université Paris-Saclay). It is supported by the French government in the framework of the France 2030 investment plan.
 
-<img src="../images/logo-france-2030.jpg" style="margin:0px 10px" alt="" height="40"/> <img src="../images/logo-minerve-RVB.png" alt="" height="40"/>
+<img src="../images/logo-minerve-RVB.png" style="margin:0px 10px" alt="" width="90" height="90"/> <img src="../images/logo-france-2030.jpg" alt="" width="205" height="90"/>
 
 [top](#top)
 

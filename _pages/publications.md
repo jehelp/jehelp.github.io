@@ -21,7 +21,6 @@ author_profile: true
         <input type="hidden" name="url-api" id="url-api" value="https://api.archives-ouvertes.fr" />
 
         <section class="col pr-0">
-            <h2 class="mb-0 pl-4 col-4 d-none d-print-block"> Publications</h2>
             <div class="section-shadow">
                   <div class="list">
                         <button data-bs-toggle="collapse" data-bs-target="#ART" aria-expanded="true"
@@ -55,8 +54,7 @@ author_profile: true
     <span class="halId-results">
         <a href="https://hal.science/hal-05095513v2" target="_blank" title="Lien vers le dépôt">
             <strong>
-                hal-05095513
-                                        v2
+                hal-05095513v2
           </strong>
         </a>
     </span>
@@ -315,16 +313,12 @@ author_profile: true
                                 <tbody >
 
 <tr>
-<td>
-    <a href="https://hal.science/hal-01219062v1" target="_blank" title="Lien vers le texte intégral">
-                                            </a>
-</td>
     <td class="resume-title">
     <a href="https://hal.science/hal-01219062v1" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Leohnard Euler, Ecrits sur la musique, Vol. 2</h3>
     </a>
                         <span class="authors-results">
-                                                                                                        <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Renzo Caddeo" title="Documents de l'auteur" target="_blank" rel="nofollow">Renzo Caddeo</a>
+    <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Renzo Caddeo" title="Documents de l'auteur" target="_blank" rel="nofollow">Renzo Caddeo</a>
                                                             ,
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Xavier Hascher" title="Documents de l'auteur" target="_blank" rel="nofollow">Xavier Hascher</a>
                                                             ,
@@ -343,8 +337,7 @@ author_profile: true
     <span class="halId-results">
         <a href="https://hal.science/hal-01219062v1" target="_blank" title="Lien vers le dépôt">
             <strong>
-                hal-01219062
-                                        v1
+                hal-01219062v1
                                 </strong>
         </a>
     </span>
@@ -352,16 +345,12 @@ author_profile: true
 </tr>
 
 <tr>
-<td>
-    <a href="https://hal.science/hal-01219059v1" target="_blank" title="Lien vers le texte intégral">
-                                            </a>
-</td>
     <td class="resume-title">
     <a href="https://hal.science/hal-01219059v1" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Leonhard Euler, Ecrits sur la musique, Vol. 1</h3>
     </a>
                         <span class="authors-results">
-                                                                                                        <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Renzo Caddeo" title="Documents de l'auteur" target="_blank" rel="nofollow">Renzo Caddeo</a>
+    <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Renzo Caddeo" title="Documents de l'auteur" target="_blank" rel="nofollow">Renzo Caddeo</a>
                                                             ,
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Pierre Jehel" title="Documents de l'auteur" target="_blank" rel="nofollow">Pierre Jehel</a>
                                                             ,
@@ -380,14 +369,13 @@ author_profile: true
     <span class="halId-results">
         <a href="https://hal.science/hal-01219059v1" target="_blank" title="Lien vers le dépôt">
             <strong>
-                hal-01219059
-                                        v1
+                hal-01219059v1
                                 </strong>
         </a>
     </span>
 </td>
 </tr>
-                                                                    </tbody>
+                  </tbody>
                             </table>
                         </div>
                     </div>

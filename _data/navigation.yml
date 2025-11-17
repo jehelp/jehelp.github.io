@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Open positions"
-    url: /positions/
+#  - title: "Open positions"
+#    url: /positions/
 
 #  - title: "Talks"
 #    url: /talks/

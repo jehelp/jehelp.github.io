@@ -5,6 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+@media (max-width: 560px) {
+.image-responsive {
+overflow:hidden;
+padding-bottom:0%;
+position:relative;
+height:0;
+}
+.image-responsive img {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+}
+</style>
+
+<a href="https://youtu.be/gcU7M26Wdf4?si=rXAqFpPg20j9h8xj" target="_blank"><img class='image-responsive' alt="" src="http://jehelp.github.io/images/screenshot_CS-MINERVE-presentation-P-Jehel.png" style="border-style:solid; border-width:0px; height:189px; width:336px"></a>
+
+
+
 *Note:* The CentraleSupélec course catalogue is available <a href="https://www.centralesupelec.fr/sites/default/files/catalogue_2020_en_v1.0.pdf" target="_blank">here</a>.
 
 ### Current courses taught at undergraduate level

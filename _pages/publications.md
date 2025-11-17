@@ -12,36 +12,9 @@ author_profile: true
 
 <div id="resume-content-document" style="display: contents">
 <div id="facettes">
-    <section class="section-shadow p-4 search-section d-print-none pg-20">
-        <h2 class="mb-0 pl-4 col-4 title-doc"> Publications</h2>
-
-        <div class="input-group">
-          <input class="hal-second-search-input search" type="text" name="q" id="q"
-               autocomplete="off" placeholder="Chercher une publication"
-               value="">
-          <button class="btn btn-search" type="button" id="btn-search" aria-label="Rechercher des publications">
-              <span class="icon-search" aria-hidden="true"></span>
-          </button>
-        </div>
-
-        <div class="dropdown">
-            <button type="button" class="btn-cv-export dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Exporter">
-                <i class="icon-export"></i>
-            </button>
-            <ul class="dropdown-menu dropdown-menu-lg-end">
-                                        <li><a class="dropdown-item" href="/pierre-jehel/bibtex" target="_blank">BibTeX</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/xml-tei" target="_blank">XML-TEI</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/csv" target="_blank">CSV</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/rtf" target="_blank">RTF</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/endnote" target="_blank">EndNote</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/pdf" target="_blank">PDF</a></li>
-                                        <li><a class="dropdown-item" href="/pierre-jehel/html" target="_blank">HTML</a></li>
-                                </ul>
-        </div>
-    </section>
 
 
-            <div class="row ml-0 mr-0 mt-5">
+    <div class="row ml-0 mr-0 mt-5">
         <input type="hidden" name="idhal" id="idhal" value="pierre-jehel" />
         <input type="hidden" name="url-facet" id="url-facet" value="&amp;fq=authIdHal_s:pierre-jehel&amp;fq=docType_s:(ART OR OUV OR COUV OR COMM OR POSTER OR PATENT OR OTHER OR UNDEFINED OR REPORT OR THESE OR HDR OR LECTURE OR IMG OR VIDEO OR SON OR MAP)&amp;rows=1000&amp;fl=halId_s,version_i,uri_s,docType_s,docSubType_s,doiId_s,title_s,authFullName_s,producedDate_s,thumbId_i,citationRef_s,linkExtUrl_s,linkExtId_s&amp;facet=true&amp;facet.mincount=1&amp;facet.field=openAccess_bool&amp;sort=publicationDateY_i desc" />
         <input type="hidden" name="personId" id="cv-person-id" value="7389" />
@@ -50,7 +23,7 @@ author_profile: true
         <section class="col pr-0">
             <h2 class="mb-0 pl-4 col-4 d-none d-print-block"> Publications</h2>
             <div class="section-shadow">
-                                        <div class="list">
+                  <div class="list">
                         <button data-bs-toggle="collapse" data-bs-target="#ART" aria-expanded="true"
                                 aria-controls="ART" class="btn drop-down title-facet">
                             <i class="text-xl icon-typdoc_art d-print-none"></i> Article dans une revue <span class="d-print-none">(8)</span>
@@ -58,16 +31,9 @@ author_profile: true
                         </button>
                         <div class="collapse show content-facet" id="ART">
                             <table class="results-table w-100">
-                                <tbody >
+                              <tbody>
 
 <tr>
-<td>
-    <a href="https://hal.science/hal-05095513v2/document" target="_blank" title="Lien vers le texte intégral">
-                        <div class="media d-none d-sm-block d-print-none">
-                <img src="https://thumb.ccsd.cnrs.fr/9772865/thumb" class="object-fit-cover"  alt="Image document"/>
-            </div>
-                </a>
-</td>
     <td class="resume-title">
     <a href="https://hal.science/hal-05095513v2" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Parameter influence analysis in a 3D TBM model via sensitivity analysis and Gaussian process metamodels</h3>

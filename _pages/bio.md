@@ -7,7 +7,10 @@ author_profile: true
 
 <!--- For preview: ctrl+shift+m -->
 
-I am an Associate Professor at <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a> affiliated at:
+I am an Associate Professor at <a href="https://www.centralesupelec.fr/en" target="_blank">CentraleSupélec</a>, School of Engineering at <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>.
+
+
+
 * <a href="https://www.centralesupelec.fr/en" target="_blank">CentraleSupélec</a> where I teach and manage programs in the field of Civil and Environmental Engineering
 * <a href="https://lmps.ens-paris-saclay.fr" target="_blank">Laboratoire de Mécanique Paris-Saclay</a> where I develop my research mostly in computational mechanics and stochastic structural reliability.
 

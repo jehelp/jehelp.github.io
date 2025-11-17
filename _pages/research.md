@@ -8,7 +8,7 @@ author_profile: true
 <a name="top"></a>
 * [The Minerve project](#minerve-project)
 * [The Institute for Sustainable and Digitized Railway Infrastructures](#isdri)
-* [Phd students supervision](#phds)
+* [Phd students co-supervision](#phds)
 
 <a name="minerve-project"></a>
 ## The Minerve project

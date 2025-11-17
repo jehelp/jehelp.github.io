@@ -325,12 +325,6 @@ author_profile: true
             <span class="typdoc mr-2"> Ouvrages
                 </span>
 
-    <span class="halId-results">
-        <a href="https://hal.science/hal-01219062v1" target="_blank" title="Lien vers le dépôt">
-            <strong>
-                hal-01219062v1
-                                </strong>
-        </a>
     </span>
     </br>
     <a href="https://hal.science/hal-01219059v1" title="Lien vers le dépôt" target="_blank">
@@ -347,14 +341,6 @@ author_profile: true
                         <div class="citation-results">Hermann, collection du GREAM, 330 p., 2015, 2705690921</div>
             <span class="typdoc mr-2"> Ouvrages
                 </span>
-
-    <span class="halId-results">
-        <a href="https://hal.science/hal-01219059v1" target="_blank" title="Lien vers le dépôt">
-            <strong>
-                hal-01219059v1
-                                </strong>
-        </a>
-    </span>
                         </div>
                     </div>
 

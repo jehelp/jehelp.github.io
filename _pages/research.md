@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 <a name="top"></a>
-I am serving as Principal Investigator in the following research projects:
-* [MINERVE project](#minerve-project)
-* [GEOPONT project](#geopont-project)
+* [The Minerve project](#minerve-project)
+* [The Institute for Sustainable and Digitized Railway Infrastructures](#isdri)
+* [Phd strudients supervision](#phds)
 
-I am supervising the following PhD research topics:
+I am co-supervising the following PhD research topics:
 * [TBM monitoring](#tbm-monitoring)
 
 
 <a name="minerve-project"></a>
-### MINERVE project
+### the Minerve project
 
 <style>
 @media (max-width: 560px) {
@@ -48,19 +48,15 @@ The project MINERVE is a public-private &euro;35 million-project gathering 4 ind
 [top](#top)
 
 
-<a name="geopont-project"></a>
-### GEOPONT project
+<a name="isdri"></a>
+### The Institute for Sustainable and Digitized Railway Infrastructures
 
-The GEOPONT project gathers the expertise of 2 industrial partners (Bouygues Travaux Publics and SpotLight Earth) and of CentraleSupélec / Université Paris-Saclay to develop a methodology for the fast and affordable health monitoring of reinforced concrete bridges. Established and emerging geophysical methods are considered. As Principal Investigator and with a post-doctoral researcher under my supervision, I am in charge of i) designing simulation-informed active seismic surveys for collecting data on bridges and ii) developing field-experiment-informed numerical simulations of active seismic surveys to detect possible damage in a bridge.
-
-The GEOPONT project is supported by the French government in the framework of the France 2030 investment plan.
-
-<img src="../images/logo-france-2030.jpg" alt="" width="90"/>
+Seminars programs
 
 [top](#top)
 
 
-<a name="tbm-monitoring"></a>
+<a name="phds"></a>
 ### Tunnel Boring Machine monitoring in urban areas
 
 I am co-supervising the research work of a PhD candidate on controlling Tunnel Boring Machines (TBM) to minimize ground settlements in urban areas. A finite element computational model is being developed using the software Abaqus for simulating ground settlement induced by a TBM underground. Data from the TBM and from ground surface monitoring is being collected. A reinforcement learning strategy using Gaussian processes will be explored for providing optimal control of the TBM.

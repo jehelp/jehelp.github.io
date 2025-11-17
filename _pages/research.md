@@ -8,14 +8,10 @@ author_profile: true
 <a name="top"></a>
 * [The Minerve project](#minerve-project)
 * [The Institute for Sustainable and Digitized Railway Infrastructures](#isdri)
-* [Phd strudients supervision](#phds)
-
-I am co-supervising the following PhD research topics:
-* [TBM monitoring](#tbm-monitoring)
-
+* [Phd students supervision](#phds)
 
 <a name="minerve-project"></a>
-### the Minerve project
+## The Minerve project
 
 <style>
 @media (max-width: 560px) {
@@ -49,7 +45,7 @@ The project MINERVE is a public-private &euro;35 million-project gathering 4 ind
 
 
 <a name="isdri"></a>
-### The Institute for Sustainable and Digitized Railway Infrastructures
+## The Institute for Sustainable and Digitized Railway Infrastructures
 
 Seminars programs
 
@@ -57,7 +53,7 @@ Seminars programs
 
 
 <a name="phds"></a>
-### Tunnel Boring Machine monitoring in urban areas
+## Tunnel Boring Machine monitoring in urban areas
 
 I am co-supervising the research work of a PhD candidate on controlling Tunnel Boring Machines (TBM) to minimize ground settlements in urban areas. A finite element computational model is being developed using the software Abaqus for simulating ground settlement induced by a TBM underground. Data from the TBM and from ground surface monitoring is being collected. A reinforcement learning strategy using Gaussian processes will be explored for providing optimal control of the TBM.
 

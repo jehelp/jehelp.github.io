@@ -23,7 +23,7 @@ position:absolute;
 }
 </style>
 
-<a href="https://youtu.be/gcU7M26Wdf4?si=rXAqFpPg20j9h8xj" target="_blank"><img class='image-responsive' alt="" src="http://jehelp.github.io/images/screenshot_CS-MINERVE-presentation-P-Jehel.png" style="border-style:solid; border-width:0px; height:189px; width:336px"></a>
+<a href="https://youtu.be/gcU7M26Wdf4?si=rXAqFpPg20j9h8xj" target="_blank"><img class='image-responsive' alt="" src="http://jehelp.github.io/images/screenshot_IFRDD.png" style="border-style:solid; border-width:0px; height:189px; width:336px"></a>
 
 
 

@@ -34,31 +34,30 @@ author_profile: true
                               <tbody>
 
 <tr>
+<td>
+</td>
     <td class="resume-title">
     <a href="https://hal.science/hal-05095513v2" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Parameter influence analysis in a 3D TBM model via sensitivity analysis and Gaussian process metamodels</h3>
     </a>
-                        <span class="authors-results">
-                                                                                                        <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Boris Kratz" title="Documents de l'auteur" target="_blank" rel="nofollow">Boris Kratz</a>
+        <span class="authors-results">
+            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Boris Kratz" title="Documents de l'auteur" target="_blank" rel="nofollow">Boris Kratz</a>
                                                             ,
-                                                                                                                            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Pierre Jehel" title="Documents de l'auteur" target="_blank" rel="nofollow">Pierre Jehel</a>
-                                                            ,
+            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Pierre Jehel" title="Documents de l'auteur" target="_blank" rel="nofollow">Pierre Jehel</a>
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Maxime Tatin" title="Documents de l'auteur" target="_blank" rel="nofollow">Maxime Tatin</a>
-                                                            ,
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Emmanuel Vazquez" title="Documents de l'auteur" target="_blank" rel="nofollow">Emmanuel Vazquez</a>
-                                                                                </span>
+        </span>
             <br>
-                        <div class="citation-results"><i>Computers and Geotechnics</i>, 2026, 189, pp.107650. <a target="_blank" href="https://dx.doi.org/10.1016/j.compgeo.2025.107650">&#x27E8;10.1016/j.compgeo.2025.107650&#x27E9;</a></div>
-            <span class="typdoc mr-2"> Article dans une revue
-                </span>
-
+              <div class="citation-results"><i>Computers and Geotechnics</i>, 2026, 189, pp.107650. <a target="_blank" href="https://dx.doi.org/10.1016/j.compgeo.2025.107650">&#x27E8;10.1016/j.compgeo.2025.107650&#x27E9;</a></div>
+      <span class="typdoc mr-2"> Article dans une revue
+            </span>
 
     <span class="halId-results">
         <a href="https://hal.science/hal-05095513v2" target="_blank" title="Lien vers le dépôt">
             <strong>
                 hal-05095513
                                         v2
-                                </strong>
+          </strong>
         </a>
     </span>
 </td>
@@ -66,18 +65,13 @@ author_profile: true
 
 <tr>
 <td>
-    <a href="https://hal.science/hal-03275326v1/document" target="_blank" title="Lien vers le texte intégral">
-                        <div class="media d-none d-sm-block d-print-none">
-                <img src="https://thumb.ccsd.cnrs.fr/8845714/thumb" class="object-fit-cover"  alt="Image document"/>
-            </div>
-                </a>
 </td>
     <td class="resume-title">
     <a href="https://hal.science/hal-03275326v1" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Seismic evaluation of ordinary RC buildings retrofitted with externally bonded FRPs using a reliability-based approach</h3>
     </a>
                         <span class="authors-results">
-                                                                                                        <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Mohammad Ali Mahdavipour" title="Documents de l'auteur" target="_blank" rel="nofollow">Mohammad Ali Mahdavipour</a>
+      <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Mohammad Ali Mahdavipour" title="Documents de l'auteur" target="_blank" rel="nofollow">Mohammad Ali Mahdavipour</a>
                                                             ,
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Abolfazl Eslami" title="Documents de l'auteur" target="_blank" rel="nofollow">Abolfazl Eslami</a>
                                                             ,
@@ -87,7 +81,6 @@ author_profile: true
                         <div class="citation-results"><i>Composite Structures</i>, 2020, 232, pp.111567. <a target="_blank" href="https://dx.doi.org/10.1016/j.compstruct.2019.111567">&#x27E8;10.1016/j.compstruct.2019.111567&#x27E9;</a></div>
             <span class="typdoc mr-2"> Article dans une revue
                 </span>
-
 
     <span class="halId-results">
         <a href="https://hal.science/hal-03275326v1" target="_blank" title="Lien vers le dépôt">
@@ -102,11 +95,6 @@ author_profile: true
 
 <tr>
 <td>
-    <a href="https://hal.science/hal-01131467v1/document" target="_blank" title="Lien vers le texte intégral">
-                        <div class="media d-none d-sm-block d-print-none">
-                <img src="https://thumb.ccsd.cnrs.fr/6061169/thumb" class="object-fit-cover"  alt="Image document"/>
-            </div>
-                </a>
 </td>
     <td class="resume-title">
     <a href="https://hal.science/hal-01131467v1" title="Lien vers le dépôt" target="_blank">

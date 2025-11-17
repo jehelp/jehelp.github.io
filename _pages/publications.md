@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications are available <a href="https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/pierre-jehel-0" target="_blank">here</a>
+<!-- Publications are available <a href="https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/pierre-jehel-0" target="_blank">here</a> -->
 
 <iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=7389&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Aff&amp;css=../css/VisuRubriqueEncadre.css" style="width:100%;height:500px;">
 </iframe>

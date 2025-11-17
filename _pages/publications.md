@@ -302,13 +302,12 @@ author_profile: true
                         </div>
                     </div>
 
-                                        <div class="list">
-                        <button data-bs-toggle="collapse" data-bs-target="#OUV" aria-expanded="true"
-                                aria-controls="OUV" class="btn drop-down title-facet">
-                            <i class="text-xl icon-typdoc_ouv d-print-none"></i> Ouvrages <span class="d-print-none">(2)</span>
-                            <span class="icon-drop_down hal-icon d-print-none" aria-hidden="true"></span>
+    <div class="list">
+            <button data-bs-toggle="collapse" data-bs-target="#OUV" aria-expanded="true"
+                            aria-controls="OUV" class="btn drop-down title-facet">
+                    <i class="text-xl icon-typdoc_ouv d-print-none"></i> Ouvrages
                         </button>
-                        <div class="collapse show content-facet" id="OUV">
+          <div class="collapse show content-facet" id="OUV">
 
     <a href="https://hal.science/hal-01219062v1" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Leohnard Euler, Ecrits sur la musique, Vol. 2</h3>
@@ -319,12 +318,9 @@ author_profile: true
                                                                                                                            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Pierre Jehel" title="Documents de l'auteur" target="_blank" rel="nofollow">Pierre Jehel</a>
                                                                                                                            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Athanase Papadopoulos" title="Documents de l'auteur" target="_blank" rel="nofollow">Athanase Papadopoulos</a>
                                                                                                                            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Hélène Papadopoulos" title="Documents de l'auteur" target="_blank" rel="nofollow">Hélène Papadopoulos</a>
-                                                                                </span>
+                      </span>
             <br>
-                        <div class="citation-results">Hermann, collection du GREAM, 325 p., 2015, 9782705691288</div>
-            <span class="typdoc mr-2"> Ouvrages
-                </span>
-
+                <div class="citation-results">Hermann, collection du GREAM, 325 p., 2015, 9782705691288</div>
     </span>
     </br>
     <a href="https://hal.science/hal-01219059v1" title="Lien vers le dépôt" target="_blank">
@@ -338,11 +334,10 @@ author_profile: true
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Hélène Papadopoulos" title="Documents de l'auteur" target="_blank" rel="nofollow">Hélène Papadopoulos</a>
                                                                                 </span>
             <br>
-                        <div class="citation-results">Hermann, collection du GREAM, 330 p., 2015, 2705690921</div>
-            <span class="typdoc mr-2"> Ouvrages
-                </span>
-                        </div>
-                    </div>
+                <div class="citation-results">Hermann, collection du GREAM, 330 p., 2015, 2705690921</div>
+
+        </div>
+    </div>
 
                                         <div class="list">
                         <button data-bs-toggle="collapse" data-bs-target="#COUV" aria-expanded="true"

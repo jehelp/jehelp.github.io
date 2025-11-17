@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 <a name="top"></a>
-* [Teachning programs management](#teaching-prog)
+* [Management of teachning programs](#teaching-prog)
 * [Courses taught currently](#courses-current)
 * [Courses taught in the past](#courses-past)
 
 <a name="teaching-prog"></a>
-### Teachning programs management
+### Management of teachning programs
 
 <style>
 @media (max-width: 560px) {
@@ -51,7 +51,7 @@ position:absolute;
 [top](#top)
 
 <a name="courses-past"></a>
-### Past courses taught
+### Courses taught in the past
 
 * 2016-2021: 2EL1810 <a href="https://www.centralesupelec.fr/en/cours/2EL1810?academic_year=2025-2026" target="_blank">*Structural Dynamics and Acoustics*</a>; hands-on sessions
 * 2019-2021: 2IN5010 <a href="https://www.centralesupelec.fr/en/cours/2IN5010?academic_year=2025-2026" target="_blank">*Bridge Building Challenge*</a>; hands-on sessions

@@ -29,11 +29,9 @@ position:absolute;
 
 ### Current courses taught at undergraduate level
 
-* 1SC4500 *Continuum Mechanics*; hands-on sessions
-* 1SC4510 *Continuum Mechanics*; hands-on sessions
-* 1SC4590 *Continuum Mechanics*; hands-on sessions
-* 1SC4510 *Introduction to Digital Twin*; lectures and hands-on sessions
-* 1SC4590 *Design of a Bridge Structure*; hands-on sessions and mentoring
+* 1SC4500 *Adapting civil engineering infrastructures to clumate change*; lectures
+* 1SC4510 *Structural response to environmental actions*; leactures and hands-on sessions
+* 1SC4590 *Digital twins for managing infrastructures in the presence of environmental risks*; hands-on sessions
 
 ### Current course taught at graduate level
 * 3CV1050 *Structural Mechanics*; lectures, hands-on sessions, mentoring

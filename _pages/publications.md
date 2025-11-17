@@ -10,6 +10,7 @@ author_profile: true
 <iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=7389&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Aff&amp;css=../css/VisuRubriqueEncadre.css" style="width:100%;height:100%;">
 </iframe>
 
+<!--
 <div id="resume-content-document" style="display: contents">
 <div id="facettes">
 
@@ -319,7 +320,7 @@ author_profile: true
                                                                                                                            <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Hélène Papadopoulos" title="Documents de l'auteur" target="_blank" rel="nofollow">Hélène Papadopoulos</a>
     </span>
     <br>
-    <div class="citation-results">Hermann, collection du GREAM, 325 p., 2015, 9782705691288</div>
+    <div class="citation-results">Hermann, collection du GREAM, 325 p., 2015, ISBN : 9782705691288</div>
     </br>
     <a href="https://hal.science/hal-01219059v1" title="Lien vers le dépôt" target="_blank">
         <h3 class="title-results">Leonhard Euler, Ecrits sur la musique, Vol. 1</h3>
@@ -332,7 +333,7 @@ author_profile: true
                                                                                                                             <a href="https://hal.science/search/index/?q=*&amp;authFullName_s=Hélène Papadopoulos" title="Documents de l'auteur" target="_blank" rel="nofollow">Hélène Papadopoulos</a>
      </span>
      <br>
-                <div class="citation-results">Hermann, collection du GREAM, 330 p., 2015, 2705690921</div>
+                <div class="citation-results">Hermann, collection du GREAM, 330 p., 2015, ISBN : 9782705690922</div>
         </div>
     </div>
 
@@ -1934,6 +1935,7 @@ author_profile: true
     </div>
 </div>
 </div>
+-->
 
 <!-- Publications are available <a href="https://research.centralesupelec.fr/pierre.jehel/" target="_blank">here</a> -->
 

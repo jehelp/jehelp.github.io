@@ -10,6 +10,7 @@ author_profile: true
 <iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=7389&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Aff&amp;css=../css/VisuRubriqueEncadre.css" style="width:100%;height:100%;">
 </iframe>
 
+
 <!-- Publications are available <a href="https://research.centralesupelec.fr/pierre.jehel/" target="_blank">here</a> -->
 
 <!-- {% if author.googlescholar %}
